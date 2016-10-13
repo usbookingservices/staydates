@@ -2,7 +2,7 @@
   "name": "usbooking/staydates",
   "autoload": {
     "psr-0" : {
-      "USBooking\\StayDates" : "src"
+      "USBooking\\StayDates" : "src/"
     }
   }
 }

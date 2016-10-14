@@ -1,5 +1,6 @@
 {
   "name": "usbooking/staydates",
+  "description": "Useful functions for working out stay dates and check out dates for hotel reservations",
   "require": {
     "php": ">=5.3.3"
   },
